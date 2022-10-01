@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="494.0" prefWidth="734.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cuestionario.CompetenciaController">
+   <children>
+      <Pane layoutX="14.0" layoutY="14.0" prefHeight="473.0" prefWidth="709.0">
+         <children>
+            <Pane layoutX="14.0" layoutY="14.0" prefHeight="147.0" prefWidth="689.0">
+               <children>
+                  <Label layoutX="59.0" layoutY="29.0" text="Pregunta 1 de n" />
+                  <Label layoutX="59.0" layoutY="74.0" text="Pregunta" />
+               </children>
+            </Pane>
+            <Pane layoutX="14.0" layoutY="177.0" prefHeight="290.0" prefWidth="689.0">
+               <children>
+                  <Label layoutX="57.0" layoutY="26.0" text="Respuestas" />
+                  <RadioButton layoutX="128.0" layoutY="52.0" mnemonicParsing="false" text="opcion 1" />
+                  <RadioButton layoutX="128.0" layoutY="86.0" mnemonicParsing="false" text="opcion 2" />
+                  <RadioButton layoutX="128.0" layoutY="118.0" mnemonicParsing="false" text="opcion 3" />
+                  <RadioButton layoutX="128.0" layoutY="153.0" mnemonicParsing="false" text="opcion 4" />
+                  <Label layoutX="421.0" layoutY="44.0" text="Segundos restante para contestar" />
+                  <Label layoutX="507.0" layoutY="95.0" text="10" />
+                  <Label layoutX="66.0" layoutY="224.0" text="Sobrenombre" />
+                  <Label layoutX="468.0" layoutY="216.0" text="Total de puntos" />
+                  <Label layoutX="510.0" layoutY="252.0" text="0" />
+                  <Button layoutX="599.0" layoutY="248.0" mnemonicParsing="false" text="+" />
+               </children>
+            </Pane>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

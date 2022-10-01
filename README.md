@@ -1,6 +1,6 @@
 # PROYECTO-2-PROGRAMACION-2
 
-Mario Quiñonez 7690-21-2086 Universidad Mariano Galvez Facultad de Ingenieria en Sistemas 
+Mario Quiñonez 7690-21-2086 Programacion 2 Universidad Mariano Galvez Facultad de Ingenieria en Sistemas 
 
 # Descripccion
 
@@ -91,4 +91,4 @@ Recordemos tambien que se pueden presentar algunos fallos si no se lleva un orde
 
 Al momento de ejecutar el programa puede que se torne un poco dificil entender las funciones el poder comprender la funcionalidad del programa o del uso del mismo, tomanmdo en cuenta las descripciones y uso de las opcciones que se presentaron en este Manual sera de gran ayuda para llevarlo a cabo.
 
-Mario Quiñonez 7690-21-2086 Universidad Mariano Galvez Facultad de Ingenieria en Sistemas 
+Mario Quiñonez 7690-21-2086 Programacion 2 Universidad Mariano Galvez Facultad de Ingenieria en Sistemas 

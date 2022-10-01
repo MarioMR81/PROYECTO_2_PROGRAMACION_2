@@ -22,6 +22,8 @@ Acontinuacion Veremos el uso adecuado del programa realizado para hacer custiona
 
 5....Contactos
 
+6....Diagrama de Clases
+
 # Introducción
 
 Ahora veremos una breve explicacion sobre algunos puntos muy importantes del programa, para tener un maximo rendimiento, como tambien algunos pasos implementados en un pequeño manual para tener un mejor entendimiento de como funciona, algunos objetivos como tambien la explicacion del programa o breves descripciones de las distintas partes del programa, parte por parte, funcion por funcion, tratando de dar una descripcion de las opciones como del funcionamiento del programa y de sus distintas funcionalidades.
@@ -92,3 +94,8 @@ Recordemos tambien que se pueden presentar algunos fallos si no se lleva un orde
 Al momento de ejecutar el programa puede que se torne un poco dificil entender las funciones el poder comprender la funcionalidad del programa o del uso del mismo, tomanmdo en cuenta las descripciones y uso de las opcciones que se presentaron en este Manual sera de gran ayuda para llevarlo a cabo.
 
 Mario Quiñonez 7690-21-2086 Programacion 2 Universidad Mariano Galvez Facultad de Ingenieria en Sistemas 
+
+# Diagrama de Clases
+
+![Diagrama de Clases](https://user-images.githubusercontent.com/91577396/193395310-95fc2e98-e26d-4f2a-a4da-ac1480f7badf.png)
+
